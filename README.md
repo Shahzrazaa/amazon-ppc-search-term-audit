@@ -1,6 +1,5 @@
 # Amazon PPC Search-Term Audit
 
-[![tests](https://github.com/Shahzrazaa/amazon-ppc-search-term-audit/actions/workflows/ci.yml/badge.svg)](https://github.com/Shahzrazaa/amazon-ppc-search-term-audit/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **A small Python tool that reads an Amazon Ads search-term report and tells you where the money leaks.**
