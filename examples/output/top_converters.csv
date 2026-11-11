@@ -1,0 +1,35 @@
+search_term,campaign,ad_group,match_type,clicks,spend,orders,sales,acos_pct,cvr_pct,suggested_action
+hiking water bottle,SP | Broad | Bottle,Broad core,BROAD,75,44.01,9,249.9,17.61,12.0,harvest to exact-match campaign
+insulated water bottle with straw,SP | Phrase | Bottle,Phrase core,PHRASE,51,48.15,9,224.91,21.41,17.65,harvest to exact-match campaign
+metal water bottle,SP | Exact | Bottle,Exact winners,EXACT,30,32.52,8,224.91,14.46,26.67,keep / raise bid
+water bottle black,SP | Phrase | Bottle,Phrase core,PHRASE,40,49.28,8,224.91,21.91,20.0,harvest to exact-match campaign
+insulated water bottle,SP | Auto | Bottle,Auto targets,-,34,41.99,6,149.94,28.0,17.65,harvest to exact-match campaign
+leak proof water bottle,SP | Phrase | Bottle,Phrase core,PHRASE,14,17.15,6,149.94,11.44,42.86,harvest to exact-match campaign
+water bottle 32 oz,SP | Broad | Bottle,Broad core,BROAD,24,19.99,6,149.94,13.33,25.0,harvest to exact-match campaign
+water bottle dishwasher safe,SP | Phrase | Bottle,Phrase core,PHRASE,32,34.21,6,149.94,22.82,18.75,harvest to exact-match campaign
+water bottle for gym,SP | Broad | Bottle,Broad core,BROAD,23,24.16,5,174.93,13.81,21.74,harvest to exact-match campaign
+cold water bottle 24 hours,SP | Broad | Bottle,Broad core,BROAD,14,16.78,5,149.94,11.19,35.71,harvest to exact-match campaign
+insulated water bottle for school,SP | Auto | Bottle,Auto targets,-,17,11.45,5,149.94,7.64,29.41,harvest to exact-match campaign
+vacuum insulated bottle,SP | Broad | Bottle,Broad core,BROAD,22,19.78,5,124.95,15.83,22.73,harvest to exact-match campaign
+insulated water bottle for men,SP | Auto | Bottle,Auto targets,-,33,24.16,4,124.95,19.34,12.12,harvest to exact-match campaign
+steel bottle for men,SP | Auto | Bottle,Auto targets,-,26,17.15,4,124.95,13.73,15.38,harvest to exact-match campaign
+insulated water bottle for men,SP | Broad | Bottle,Broad core,BROAD,9,9.06,4,99.96,9.06,44.44,harvest to exact-match campaign
+metal water bottle,SP | Auto | Bottle,Auto targets,-,20,16.62,3,99.96,16.63,15.0,harvest to exact-match campaign
+water bottle 1 litre,SP | Broad | Bottle,Broad core,BROAD,15,20.53,3,99.96,20.54,20.0,harvest to exact-match campaign
+double wall water bottle,SP | Phrase | Bottle,Phrase core,PHRASE,17,19.38,3,74.97,25.85,17.65,harvest to exact-match campaign
+insulated water bottle for school,SP | Broad | Bottle,Broad core,BROAD,15,15.49,3,74.97,20.66,20.0,harvest to exact-match campaign
+sports water bottle,SP | Phrase | Bottle,Phrase core,PHRASE,11,12.99,3,74.97,17.33,27.27,harvest to exact-match campaign
+steel bottle dishwasher safe,SP | Auto | Bottle,Auto targets,-,11,8.01,3,74.97,10.68,27.27,harvest to exact-match campaign
+steel bottle for men,SP | Broad | Bottle,Broad core,BROAD,7,4.0,3,74.97,5.34,42.86,harvest to exact-match campaign
+water bottle for women,SP | Phrase | Bottle,Phrase core,PHRASE,9,8.81,3,74.97,11.75,33.33,harvest to exact-match campaign
+water bottle pink,SP | Broad | Bottle,Broad core,BROAD,13,18.64,3,74.97,24.86,23.08,harvest to exact-match campaign
+insulated water bottle for women,SP | Phrase | Bottle,Phrase core,PHRASE,5,3.41,2,74.97,4.55,40.0,harvest to exact-match campaign
+leak proof water bottle,SP | Auto | Bottle,Auto targets,-,20,14.86,2,74.97,19.82,10.0,harvest to exact-match campaign
+stainless steel water bottle,SP | Exact | Bottle,Exact winners,EXACT,3,4.03,2,74.97,5.38,66.67,keep / raise bid
+steel bottle for school,SP | Broad | Bottle,Broad core,BROAD,13,11.94,2,74.97,15.93,15.38,harvest to exact-match campaign
+bpa free water bottle,SP | Broad | Bottle,Broad core,BROAD,11,11.86,2,49.98,23.73,18.18,harvest to exact-match campaign
+double wall water bottle,SP | Broad | Bottle,Broad core,BROAD,13,7.83,2,49.98,15.67,15.38,harvest to exact-match campaign
+stainless steel water bottle,SP | Auto | Bottle,Auto targets,-,18,13.58,2,49.98,27.17,11.11,harvest to exact-match campaign
+stainless steel water bottle,SP | Phrase | Bottle,Phrase core,PHRASE,14,11.75,2,49.98,23.51,14.29,harvest to exact-match campaign
+water bottle for gym,SP | Phrase | Bottle,Phrase core,PHRASE,7,6.83,2,49.98,13.67,28.57,harvest to exact-match campaign
+water bottle for school,SP | Auto | Bottle,Auto targets,-,4,2.72,2,49.98,5.44,50.0,harvest to exact-match campaign
